@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore VENV and SIMPLE_CONFUG
+venv
+simple_config
