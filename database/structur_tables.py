@@ -15,3 +15,6 @@ class StatsTable(Base):
     health = Column(Integer())
     gold = Column(Integer())
     speed = Column(Integer())
+
+    print("dima")
+    print("dima")
