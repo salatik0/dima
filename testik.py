@@ -7,3 +7,5 @@ class Sex(Enum):
 
 
 print(Sex(1))
+
+print("Я хочу в репозиторий!")
