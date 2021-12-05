@@ -130,4 +130,5 @@ dmypy.json
 
 # Ignore VENV and SIMPLE_CONFUG
 venv
-simple_config
+simple_config.py
+testik.py
